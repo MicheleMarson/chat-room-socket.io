@@ -1,4 +1,4 @@
-#Chat room - Socket.io
+# Chat room - Socket.io
 
 ```
 // install dependencies
