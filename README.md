@@ -10,4 +10,4 @@ npm install
 npm run dev
 ```
 
-run http://localhost:3000
+http://localhost:3000/
